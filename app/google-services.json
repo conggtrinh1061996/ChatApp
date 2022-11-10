@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1085153082869",
+    "project_id": "chattingapp-a6a22",
+    "storage_bucket": "chattingapp-a6a22.appspot.com",
+    "firebase_url": "https://chattingapp-a6a22-default-rtdb.asia-southeast1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085153082869:android:66584b1aeb2b3f5dc7f4bc",
+        "android_client_info": {
+          "package_name": "com.dev.beginprojectandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085153082869-5mrqjocs82l53ak80etb4jso5k8mapf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq4YFLJFbtF3Mm29KP-ysbC2V6fVATfSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085153082869-5mrqjocs82l53ak80etb4jso5k8mapf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
