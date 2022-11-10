@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Text Size-->
+    <dimen name="text_size_14sp">14sp</dimen>
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+    <dimen name="text_size_20sp">20sp</dimen>
+    <!--dimen Size-->
+    <dimen name="common_size_0dp">0dp</dimen>
+    <dimen name="common_size_2dp">2dp</dimen>
+    <dimen name="common_size_4dp">4dp</dimen>
+    <dimen name="common_size_6dp">6dp</dimen>
+    <dimen name="common_size_8dp">8dp</dimen>
+    <dimen name="common_size_10dp">10dp</dimen>
+    <dimen name="common_size_12dp">12dp</dimen>
+    <dimen name="common_size_14dp">14dp</dimen>
+    <dimen name="common_size_16dp">16dp</dimen>
+    <dimen name="common_size_18dp">18dp</dimen>
+    <dimen name="common_size_20dp">20dp</dimen>
+    <dimen name="common_size_24dp">24dp</dimen>
+    <dimen name="common_size_28dp">28dp</dimen>
+    <dimen name="common_size_30dp">30dp</dimen>
+    <dimen name="common_size_32dp">32dp</dimen>
+    <dimen name="common_size_36dp">36dp</dimen>
+    <dimen name="common_size_40dp">40dp</dimen>
+    <dimen name="common_size_44dp">44dp</dimen>
+    <dimen name="common_size_48dp">48dp</dimen>
+    <dimen name="common_size_56dp">56dp</dimen>
+    <dimen name="common_size_60dp">60dp</dimen>
+
+    <dimen name="height_editText_register">48dp</dimen>
+    <dimen name="max_width_chatting_item">280dp</dimen>
+    <dimen name="min_height_chatting_item">48dp</dimen>
+
+</resources>
