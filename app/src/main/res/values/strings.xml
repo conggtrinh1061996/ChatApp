@@ -14,4 +14,7 @@
     <string name="enter_message">Enter Message…</string>
     <string name="new_message">New Messenger</string>
 
+    <!-- Google Ads ID -->
+    <string name="Admob_app_ad_ad">ca-app-pub-3578970740605859~1656082665</string>
+    <string name="Admob_native_ad_id">ca-app-pub-3578970740605859/1014753135</string>
 </resources>
